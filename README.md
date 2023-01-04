@@ -45,7 +45,10 @@ Checkout the object detection implementation available in [cvlib](http:cvlib.net
  
  ## Face Detection 
  
+ ### Running 01_face_dataset.py
  
+ The first script is called 01_face_dataset.py. We will use this python script to capture your face and store it as a dataset.
+ Once you run the below python script, it will activate your camera, capture your face image and then store it as dataset.
  
  ```
  python3 01_face_dataset.py
@@ -57,3 +60,5 @@ Checkout the object detection implementation available in [cvlib](http:cvlib.net
 
  [INFO] Exiting Program and cleanup stuff
  ```
+
+### Running 02_face_dataset.py
