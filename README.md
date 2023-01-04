@@ -61,4 +61,26 @@ Checkout the object detection implementation available in [cvlib](http:cvlib.net
  [INFO] Exiting Program and cleanup stuff
  ```
 
-### Running 02_face_dataset.py
+### Running 02_face_training.py
+
+You will need `pillow` Python module to get this script executed.
+Let's install the following
+
+```
+pip3 install pillow
+```
+
+Now, run the script:
+
+```
+python3 02_face_training.py
+```
+
+
+### Running 03_face_recognition.py
+
+Finally, you should be able to do facial recognition via this script
+
+```
+python3 03_face_recognition.py
+```
