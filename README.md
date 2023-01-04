@@ -45,6 +45,9 @@ Checkout the object detection implementation available in [cvlib](http:cvlib.net
  
  ## Face Detection 
  
+Besides the 3 python scripts that we will create for our project, we must have saved on it the Facial Classifier. You can download it from above: [haarcascade_frontalface_default.xml](https://github.com/ajeetraina/object-detection-opencv-jetson/blob/master/haarcascade_frontalface_default.xml)
+ 
+ 
  ### Running 01_face_dataset.py
  
  The first script is called 01_face_dataset.py. We will use this python script to capture your face and store it as a dataset.
