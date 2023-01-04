@@ -53,8 +53,11 @@ Besides the 3 python scripts that we will create for our project, we must have s
  The first script is called 01_face_dataset.py. We will use this python script to capture your face and store it as a dataset.
  Once you run the below python script, it will activate your camera, capture your face image and then store it as dataset.
  
- ```
+```
  python3 01_face_dataset.py
+```
+ 
+``` 
 [ WARN:0] global /home/nvidia/host/build_opencv/nv_opencv/modules/videoio/src/cap_gstreamer.cpp (933) open OpenCV | GStreamer warning: Cannot query video position: status=0, value=-1, duration=-1
 
  Enter user ID end press <Enter> ==>  ajeetraina
@@ -62,7 +65,7 @@ Besides the 3 python scripts that we will create for our project, we must have s
  Initializing face capture. Look the camera and wait ...
 
  [INFO] Exiting Program and cleanup stuff
- ```
+```
 
 ### Running 02_face_training.py
 
