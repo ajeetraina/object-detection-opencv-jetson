@@ -74,6 +74,9 @@ Let's install the following
 
 ```
 pip3 install pillow
+pip3 install scikit-build
+pip3 install --upgrade pip
+pip3 install opencv-contrib-python
 ```
 
 Now, run the script:
