@@ -41,3 +41,19 @@ Checkout the object detection implementation available in [cvlib](http:cvlib.net
  
  
  (_SSD and Faster R-CNN examples will be added soon_)
+ 
+ 
+ ## Face Detection 
+ 
+ 
+ 
+ ```
+ python3 01_face_dataset.py
+[ WARN:0] global /home/nvidia/host/build_opencv/nv_opencv/modules/videoio/src/cap_gstreamer.cpp (933) open OpenCV | GStreamer warning: Cannot query video position: status=0, value=-1, duration=-1
+
+ Enter user ID end press <Enter> ==>  ajeetraina
+
+ Initializing face capture. Look the camera and wait ...
+
+ [INFO] Exiting Program and cleanup stuff
+ ```
